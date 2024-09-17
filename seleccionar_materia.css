@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    color: #262626;
+    background: url(entrada-al-parque-dinosaurios_43633-7516.avif);
+    background-size: cover;
+    background-attachment: fixed;
+    align-items:center;
+}
+.Matematicas{
+    border: 200px;
+    background-color: #1a50e4;
+    color: #fff;
+    padding: 40px 6cqh; 
+    margin-right:10px;
+    margin-left:10;
+    border-radius:100px;
+    margin-top:350px;
+ }
+
+
+
+.Español{
+    background-color: rgb(221, 12, 169);
+    padding: 40px 70px;
+    border: 100px;
+    color: #fff;
+    margin-right:10px;
+    margin-left:10;
+    border-radius:100px;
+    margin-top:350px;
+ }
+    
+
+
+.Emociones{
+        border: 200px;
+        background-color: hwb(128 5% 15%);
+        color: #fff;
+        padding: 40px 60px;
+        margin-right:10px;
+        margin-left:10;
+        margin-top:450px;
+        border-radius:100px;
+}
+
+
+
+ 
+
+

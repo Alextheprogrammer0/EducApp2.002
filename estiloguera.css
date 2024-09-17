@@ -1,0 +1,17 @@
+.buttonguera{
+    text-align: center;
+    background-color:#18e5ec;
+    border-radius:100px;
+    padding:50px 100px;
+    margin-right:700px;
+    margin-left:800px;
+    margin-top:350px;
+}
+
+.body{
+   
+    font-family:Arial,Helvetica,  sans-serif;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}

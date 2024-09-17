@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Juego de resta</title>
+	<link rel="stylesheet" href="juegoDeResta.css">
+</head>
+
+<div >
+	<a href="http://127.0.0.1:5502/selecActividadMatematicas.html"> <button class="VOLVER">VOLVER</button> </a> 
+</div>
+
+
+<body>
+	<div class="container">
+		<div class="izquierdo">
+			<div class="container-operacion">
+			 	<span id="resta">9 + 9 =</span>
+			 	<span class="resultado" id="resultado"> 18</span>
+			 </div>
+			 <span class="msj" id="msj">
+			 		
+			 </span>
+		</div>
+		<div class="derecha">
+			<span id="op1" class="opcion" onclick="controlarRespuesta(this)">18</span>
+			<span id="op2" class="opcion" onclick="controlarRespuesta(this)">17</span>
+			<span id="op3" class="opcion" onclick="controlarRespuesta(this)">8</span>
+		</div>
+	</div>
+	<script src="juegoDeResta.js"></script>
+</body>
+</html>

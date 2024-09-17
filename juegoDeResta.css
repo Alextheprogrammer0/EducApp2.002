@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Nunito';
+}
+body{
+	
+	color: #412804;
+	background: url(juegosdematematicas.jpeg);
+    background-size: cover;
+	justify-items:center;
+	margin-top:1px;
+	margin-right:30px;
+	background-attachment: fixed;
+}
+
+.container{
+	background-color: hsl(0, 0%, 99%), 99%;
+	max-width: 700px;
+	border-radius: 20px;
+	display: flex;
+	padding: 10px ;
+    margin-top:350px; 
+	margin-right:30px;
+	margin-left:550px;
+}
+
+.izquierdo{
+	width: 70%;
+	font-size: 90px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.derecha{
+	width: 30%;
+}
+
+.msj{
+	font-size: 40px;
+	height: 50px;
+}
+.derecha{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.opcion{
+	width: 80px;
+	height: 80px;
+	border: 1px solid  #000;
+	font-size: 40px;
+	margin-bottom: 5px;
+	border-radius: 50%;
+	cursor: pointer;
+	background-color: #000;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.opcion:hover{
+	background-color:chartreuse
+}
+.VOLVER{
+    border: 300px;
+    background-color: #1a50e4;
+    color: #fff;
+    padding: 10px 3cqh; 
+    margin-right:10px;
+    margin-left:10;
+    border-radius:100px;
+  
+ }
+

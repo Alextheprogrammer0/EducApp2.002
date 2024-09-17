@@ -1,0 +1,35 @@
+.botonesDeInicio{
+    display: flex;
+    justify-content: center;
+    padding:30px;
+    margin: 440px;
+    }
+    
+    
+    
+    .a{
+    display: inline-block;
+    background-color: #16113098;
+    padding: 15px 25px;
+    border-radius: 100px;
+    color: #fff;
+    margin-right: 80px;
+   font-size: medium;
+    }
+    
+    .b{
+    background-color: #16113098;
+    color: #fff;
+    border-radius: 100px;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 15px 25px;
+    font-size: medium;
+    }
+
+    body{
+        text-align: center;
+        color: #262626;
+        background: url(dinosauriosdeinicio.avif);
+        background-size: cover;
+    }
